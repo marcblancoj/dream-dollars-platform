@@ -1,5 +1,7 @@
 # Dream-Dollars Platform
 
+[Dream-Dollars GitHub Repo](https://github.com/marcblancoj/dream-dollars-platform)
+
 **OWN YOUR SH*T. BUILD THE DREAM.**
 
 Dream-Dollars is the creative cartel they’ll never let you build. A decentralized, punk-as-f**k system where talent earns equity—not just paychecks. No investors. No bosses. No flipping. Just creators owning their sh*t.
@@ -51,6 +53,15 @@ Dream-Dollars turns creative sweat into lifetime ownership. You contribute to a 
 - [Revenue Distribution Guide](docs/revenue-distribution-guide.md)
 - [FAQ](docs/faq.md)
 - [Glossary](docs/glossary.md)
+- [DB Schema + Auth Flow](docs/db-schema-auth-flow.md)
+- [ER Diagram](docs/er-diagram.md)
+- [API Routes](docs/api-routes.md)
+
+## 🖌️ Design System & Figma Layouts
+
+- [Figma Blueprint](design/figma/figma-blueprint.md)
+- [Component Naming](design/figma/figma-component-naming.md)
+- [Wireframes](design/figma/wireframes.md)
 
 ---
 
